@@ -1,0 +1,29 @@
+TODO:
+	-opcodes
+		-decimal mode for ADC and SBC
+	-debugger
+		-recognize when program has modified code segment, change assembly lines affected
+		-breakpoints: clicking on lines, read/write at memory address
+		-memory watch window
+		-interpreter window
+		-exit debugger window and continue execution
+	-motorola file support
+	-config .ini file
+	-memory regions with proper read/write protection
+	-interrupts working (NMI, IRQ, BRK, RESET)
+	-monitor 
+	-sound
+	-cassette drive
+	-get a version of BASIC working
+
+DONE:
+	-pass all tests in 6502_functional_test.bin
+	-debugger
+		-step forward/backwards
+		-memory windows
+		-load binary image
+		-save state of program execution
+		-stack / zero page memory windows
+	-disassembler
+	-open debugger on error conditions(invalid instruction, branch to self, jump to self)
+	-keyboard shortcuts

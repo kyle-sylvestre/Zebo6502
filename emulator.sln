@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Emulator", "emulator.vcxproj", "{EB1B617E-FD30-4EB9-BEF6-2E089E597DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB1B617E-FD30-4EB9-BEF6-2E089E597DBA}.Debug|x64.ActiveCfg = Debug|x64
+		{EB1B617E-FD30-4EB9-BEF6-2E089E597DBA}.Debug|x64.Build.0 = Debug|x64
+		{EB1B617E-FD30-4EB9-BEF6-2E089E597DBA}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB1B617E-FD30-4EB9-BEF6-2E089E597DBA}.Debug|x86.Build.0 = Debug|Win32
+		{EB1B617E-FD30-4EB9-BEF6-2E089E597DBA}.Release|x64.ActiveCfg = Release|x64
+		{EB1B617E-FD30-4EB9-BEF6-2E089E597DBA}.Release|x64.Build.0 = Release|x64
+		{EB1B617E-FD30-4EB9-BEF6-2E089E597DBA}.Release|x86.ActiveCfg = Release|Win32
+		{EB1B617E-FD30-4EB9-BEF6-2E089E597DBA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26A3EA69-8030-44B4-960B-8A3C040D49FC}
+	EndGlobalSection
+EndGlobal
